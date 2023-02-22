@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9671e62895270b44eb6c6739e7d57b20
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MagnitPoint: {fileID: 7006631623893533691, guid: c267e87674c94c347bec7ce35bceca90, type: 3}
+  - Contruction1: {fileID: 5535435719098268954, guid: b5388b881786f164f8784ab58620c6df, type: 3}
+  - Contruction2: {fileID: 5535435719098268954, guid: b5388b881786f164f8784ab58620c6df, type: 3}
+  - _constructionContainer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
