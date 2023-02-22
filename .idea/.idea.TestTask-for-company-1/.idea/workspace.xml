@@ -68,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677068299243</updated>
-      <workItem from="1677068311769" duration="5581000" />
+      <workItem from="1677068311769" duration="6358000" />
     </task>
     <servers />
   </component>
@@ -178,32 +178,6 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/Scripts/CollisionHandler.cs</url>
-          <line>62</line>
-          <properties documentPath="F:\WORK\TestTask-for-company-1\Assets\Scripts\CollisionHandler.cs" initialLine="60">
-            <startOffsets>
-              <option value="1861" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1892" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/Scripts/CollisionHandler.cs</url>
-          <line>61</line>
-          <properties documentPath="F:\WORK\TestTask-for-company-1\Assets\Scripts\CollisionHandler.cs" initialLine="45">
-            <startOffsets>
-              <option value="1806" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1852" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Assets/Scripts/ControlGameZone.cs</url>
           <line>10</line>
           <properties documentPath="F:\WORK\TestTask-for-company-1\Assets\Scripts\ControlGameZone.cs" initialLine="10">
@@ -215,32 +189,6 @@
             </endOffsets>
           </properties>
           <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/Scripts/CollisionHandler.cs</url>
-          <line>46</line>
-          <properties documentPath="F:\WORK\TestTask-for-company-1\Assets\Scripts\CollisionHandler.cs" initialLine="46">
-            <startOffsets>
-              <option value="1404" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1443" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/Scripts/CollisionHandler.cs</url>
-          <line>44</line>
-          <properties documentPath="F:\WORK\TestTask-for-company-1\Assets\Scripts\CollisionHandler.cs" initialLine="44">
-            <startOffsets>
-              <option value="1327" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1381" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
