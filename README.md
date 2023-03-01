@@ -16,3 +16,5 @@
 Проект хорошо масштабируется, возможно добавление новых  n объектов для столкновения.
 
 Reference ![Тестовое задание программист С# (gif) (2)](https://user-images.githubusercontent.com/96375544/221495632-d9ee14a8-a68c-41f4-9889-77dcdb84e040.gif)
+
+Результат![GIF 01 03 2023 12-47-06](https://user-images.githubusercontent.com/96375544/222103433-ade5c7e2-2e72-449a-98b1-f837c8a11f1d.gif)
